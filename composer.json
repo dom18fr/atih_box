@@ -1,0 +1,6 @@
+{
+    
+    "require": {
+        "geerlingguy/drupal-vm": "^4.7"
+    }
+}
